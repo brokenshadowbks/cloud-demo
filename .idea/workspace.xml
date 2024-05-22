@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2937ad7f-5cd6-49c8-8ff5-e9d4bf3dd5c9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Public Environment File" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/operate/src/main/java/cloud/entities/Pro.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="HttpClientSelectedEnvironments">
+    <file url="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/get-requests.http" environment="test" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2fDr52JCD65cA8ZsMXeI6LjxLYy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "HTTP 请求.Main8001 | #1.executor": "Run",
+    "HTTP 请求.generated-requests | #1.executor": "Run",
+    "HTTP 请求.generated-requests | #10.executor": "Run",
+    "HTTP 请求.generated-requests | #100.executor": "Run",
+    "HTTP 请求.generated-requests | #101.executor": "Run",
+    "HTTP 请求.generated-requests | #102.executor": "Run",
+    "HTTP 请求.generated-requests | #103.executor": "Run",
+    "HTTP 请求.generated-requests | #104.executor": "Run",
+    "HTTP 请求.generated-requests | #105.executor": "Run",
+    "HTTP 请求.generated-requests | #106.executor": "Run",
+    "HTTP 请求.generated-requests | #107.executor": "Run",
+    "HTTP 请求.generated-requests | #108.executor": "Run",
+    "HTTP 请求.generated-requests | #109.executor": "Run",
+    "HTTP 请求.generated-requests | #110.executor": "Run",
+    "HTTP 请求.generated-requests | #111.executor": "Run",
+    "HTTP 请求.generated-requests | #112.executor": "Run",
+    "HTTP 请求.generated-requests | #113.executor": "Run",
+    "HTTP 请求.generated-requests | #114.executor": "Run",
+    "HTTP 请求.generated-requests | #115.executor": "Run",
+    "HTTP 请求.generated-requests | #116.executor": "Run",
+    "HTTP 请求.generated-requests | #117.executor": "Run",
+    "HTTP 请求.generated-requests | #118.executor": "Run",
+    "HTTP 请求.generated-requests | #119.executor": "Run",
+    "HTTP 请求.generated-requests | #120.executor": "Run",
+    "HTTP 请求.generated-requests | #121.executor": "Run",
+    "HTTP 请求.generated-requests | #122.executor": "Run",
+    "HTTP 请求.generated-requests | #123.executor": "Run",
+    "HTTP 请求.generated-requests | #124.executor": "Run",
+    "HTTP 请求.generated-requests | #125.executor": "Run",
+    "HTTP 请求.generated-requests | #126.executor": "Run",
+    "HTTP 请求.generated-requests | #127.executor": "Run",
+    "HTTP 请求.generated-requests | #128.executor": "Run",
+    "HTTP 请求.generated-requests | #129.executor": "Run",
+    "HTTP 请求.generated-requests | #13.executor": "Run",
+    "HTTP 请求.generated-requests | #15.executor": "Run",
+    "HTTP 请求.generated-requests | #16.executor": "Run",
+    "HTTP 请求.generated-requests | #17.executor": "Run",
+    "HTTP 请求.generated-requests | #18.executor": "Run",
+    "HTTP 请求.generated-requests | #19.executor": "Run",
+    "HTTP 请求.generated-requests | #2.executor": "Run",
+    "HTTP 请求.generated-requests | #20.executor": "Run",
+    "HTTP 请求.generated-requests | #21.executor": "Run",
+    "HTTP 请求.generated-requests | #22.executor": "Run",
+    "HTTP 请求.generated-requests | #23.executor": "Run",
+    "HTTP 请求.generated-requests | #27.executor": "Run",
+    "HTTP 请求.generated-requests | #28.executor": "Run",
+    "HTTP 请求.generated-requests | #3.executor": "Run",
+    "HTTP 请求.generated-requests | #31.executor": "Run",
+    "HTTP 请求.generated-requests | #32.executor": "Run",
+    "HTTP 请求.generated-requests | #33.executor": "Run",
+    "HTTP 请求.generated-requests | #34.executor": "Run",
+    "HTTP 请求.generated-requests | #35.executor": "Run",
+    "HTTP 请求.generated-requests | #36.executor": "Run",
+    "HTTP 请求.generated-requests | #37.executor": "Run",
+    "HTTP 请求.generated-requests | #38.executor": "Run",
+    "HTTP 请求.generated-requests | #39.executor": "Run",
+    "HTTP 请求.generated-requests | #4.executor": "Run",
+    "HTTP 请求.generated-requests | #43.executor": "Run",
+    "HTTP 请求.generated-requests | #45.executor": "Run",
+    "HTTP 请求.generated-requests | #46.executor": "Run",
+    "HTTP 请求.generated-requests | #47.executor": "Run",
+    "HTTP 请求.generated-requests | #48.executor": "Run",
+    "HTTP 请求.generated-requests | #49.executor": "Run",
+    "HTTP 请求.generated-requests | #5.executor": "Run",
+    "HTTP 请求.generated-requests | #50.executor": "Run",
+    "HTTP 请求.generated-requests | #51.executor": "Run",
+    "HTTP 请求.generated-requests | #52.executor": "Run",
+    "HTTP 请求.generated-requests | #53.executor": "Run",
+    "HTTP 请求.generated-requests | #54.executor": "Run",
+    "HTTP 请求.generated-requests | #55.executor": "Run",
+    "HTTP 请求.generated-requests | #56.executor": "Run",
+    "HTTP 请求.generated-requests | #57.executor": "Run",
+    "HTTP 请求.generated-requests | #58.executor": "Run",
+    "HTTP 请求.generated-requests | #59.executor": "Run",
+    "HTTP 请求.generated-requests | #6.executor": "Run",
+    "HTTP 请求.generated-requests | #67.executor": "Run",
+    "HTTP 请求.generated-requests | #68.executor": "Run",
+    "HTTP 请求.generated-requests | #69.executor": "Run",
+    "HTTP 请求.generated-requests | #7.executor": "Run",
+    "HTTP 请求.generated-requests | #70.executor": "Run",
+    "HTTP 请求.generated-requests | #71.executor": "Run",
+    "HTTP 请求.generated-requests | #73.executor": "Run",
+    "HTTP 请求.generated-requests | #75.executor": "Run",
+    "HTTP 请求.generated-requests | #76.executor": "Run",
+    "HTTP 请求.generated-requests | #78.executor": "Run",
+    "HTTP 请求.generated-requests | #79.executor": "Run",
+    "HTTP 请求.generated-requests | #8.executor": "Run",
+    "HTTP 请求.generated-requests | #80.executor": "Run",
+    "HTTP 请求.generated-requests | #81.executor": "Run",
+    "HTTP 请求.generated-requests | #82.executor": "Run",
+    "HTTP 请求.generated-requests | #87.executor": "Run",
+    "HTTP 请求.generated-requests | #88.executor": "Run",
+    "HTTP 请求.generated-requests | #89.executor": "Run",
+    "HTTP 请求.generated-requests | #9.executor": "Run",
+    "HTTP 请求.generated-requests | #90.executor": "Run",
+    "HTTP 请求.generated-requests | #91.executor": "Run",
+    "HTTP 请求.generated-requests | #92.executor": "Run",
+    "HTTP 请求.generated-requests | #93.executor": "Run",
+    "HTTP 请求.generated-requests | #94.executor": "Run",
+    "HTTP 请求.generated-requests | #96.executor": "Run",
+    "HTTP 请求.generated-requests | #97.executor": "Run",
+    "HTTP 请求.generated-requests | #98.executor": "Run",
+    "HTTP 请求.generated-requests | #99.executor": "Run",
+    "HTTP 请求.mvn_parent-endpoints | #1.executor": "Run",
+    "Maven.mvn_parent [clean].executor": "Run",
+    "Maven.mvn_parent [package].executor": "Run",
+    "Maven.mybatis1 [org.mybatis.generator:mybatis-generator-maven-plugin:1.4.2:generate].executor": "Run",
+    "Maven.mybatis1 [org.springframework.boot:spring-boot-maven-plugin:3.2.4:process-aot].executor": "Run",
+    "Maven.mybatis2 [org.mybatis.generator:mybatis-generator-maven-plugin:1.4.2:generate].executor": "Run",
+    "Maven.mybatis_1 [org.mybatis.generator:mybatis-generator-maven-plugin:1.4.2:generate].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.Main.executor": "Run",
+    "Spring Boot.Main7573.executor": "Run",
+    "Spring Boot.Main80.executor": "Run",
+    "Spring Boot.Main8001.executor": "Run",
+    "Spring Boot.Main8002.executor": "Run",
+    "Spring Boot.Main8005.executor": "Run",
+    "Spring Boot.Main9527.executor": "Run",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "E:/Idea Java Project/mvn_parent/login8002/src/main/java/cloud/service",
+    "last_opened_file_path": "E:/Idea Java Project/mvn_parent",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "configurable.group.build",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Idea Java Project\mvn_parent\pro-consumer80\src\main\java\cloud" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Main8001">
+    <configuration name="generated-requests | #126" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="126" requestIdentifier="#126" runType="运行单个请求">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #127" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="127" requestIdentifier="#127" runType="运行单个请求">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #128" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="128" requestIdentifier="#128" runType="运行单个请求">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #129" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="129" requestIdentifier="#129" runType="运行单个请求">
+      <method v="2" />
+    </configuration>
+    <configuration name="Main7573" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cloud.Main7573" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="pro-consumer80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cloud.Main80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="operate8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cloud.Main8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main8005" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="login8005" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cloud.Main8005" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Main8005" />
+        <item itemvalue="HTTP 请求.generated-requests | #129" />
+        <item itemvalue="HTTP 请求.generated-requests | #126" />
+        <item itemvalue="HTTP 请求.generated-requests | #127" />
+        <item itemvalue="HTTP 请求.generated-requests | #128" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2937ad7f-5cd6-49c8-8ff5-e9d4bf3dd5c9" name="Changes" comment="" />
+      <created>1713346303826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713346303826</updated>
+      <workItem from="1713346305030" duration="3213000" />
+      <workItem from="1713349529506" duration="587000" />
+      <workItem from="1713350123107" duration="1917000" />
+      <workItem from="1713358473009" duration="2621000" />
+      <workItem from="1713373260079" duration="3387000" />
+      <workItem from="1713425673718" duration="679000" />
+      <workItem from="1713426394181" duration="767000" />
+      <workItem from="1713427170175" duration="320000" />
+      <workItem from="1713427516947" duration="1511000" />
+      <workItem from="1713429034327" duration="10781000" />
+      <workItem from="1713515781877" duration="8000" />
+      <workItem from="1713606188515" duration="4199000" />
+      <workItem from="1713611866237" duration="56000" />
+      <workItem from="1713611950334" duration="1549000" />
+      <workItem from="1713614785422" duration="581000" />
+      <workItem from="1713615373715" duration="13205000" />
+      <workItem from="1713675404017" duration="6633000" />
+      <workItem from="1713689711023" duration="780000" />
+      <workItem from="1713690559377" duration="7806000" />
+      <workItem from="1713749025548" duration="12168000" />
+      <workItem from="1713776626024" duration="327000" />
+      <workItem from="1713776972008" duration="314000" />
+      <workItem from="1713777293835" duration="17000" />
+      <workItem from="1713777381230" duration="7802000" />
+      <workItem from="1713795110148" duration="126000" />
+      <workItem from="1713851918621" duration="1051000" />
+      <workItem from="1713852990139" duration="11183000" />
+      <workItem from="1713889795647" duration="3373000" />
+      <workItem from="1713895238341" duration="3023000" />
+      <workItem from="1713898497845" duration="1055000" />
+      <workItem from="1713926147131" duration="6526000" />
+      <workItem from="1713948702339" duration="4000" />
+      <workItem from="1713954178451" duration="9605000" />
+      <workItem from="1714041868931" duration="396000" />
+      <workItem from="1714042672137" duration="1440000" />
+      <workItem from="1714046806517" duration="1193000" />
+      <workItem from="1714050679534" duration="431000" />
+      <workItem from="1714056025002" duration="159000" />
+      <workItem from="1714056278087" duration="2180000" />
+      <workItem from="1714109473254" duration="4902000" />
+      <workItem from="1714116841858" duration="4269000" />
+      <workItem from="1714125306426" duration="14417000" />
+      <workItem from="1714142200122" duration="4071000" />
+      <workItem from="1714147319432" duration="2080000" />
+      <workItem from="1714408018520" duration="1178000" />
+      <workItem from="1714660679061" duration="3698000" />
+      <workItem from="1714664684186" duration="11000" />
+      <workItem from="1714674728803" duration="795000" />
+      <workItem from="1714712368544" duration="3040000" />
+      <workItem from="1714718892492" duration="2853000" />
+      <workItem from="1714729706930" duration="1038000" />
+      <workItem from="1714730997813" duration="2842000" />
+      <workItem from="1714735607500" duration="2365000" />
+      <workItem from="1714759276214" duration="368000" />
+      <workItem from="1714842496067" duration="916000" />
+      <workItem from="1714843470765" duration="784000" />
+      <workItem from="1714844760417" duration="302000" />
+      <workItem from="1714847906247" duration="2974000" />
+      <workItem from="1714919638321" duration="5664000" />
+      <workItem from="1714925471542" duration="844000" />
+      <workItem from="1714932165165" duration="10000" />
+      <workItem from="1714932449518" duration="403000" />
+      <workItem from="1714935081255" duration="1524000" />
+      <workItem from="1714995003877" duration="9187000" />
+      <workItem from="1715181180332" duration="5003000" />
+      <workItem from="1715230073582" duration="4264000" />
+      <workItem from="1715273250708" duration="1011000" />
+      <workItem from="1715274417743" duration="120000" />
+      <workItem from="1715327880687" duration="996000" />
+      <workItem from="1715334152641" duration="338000" />
+      <workItem from="1715336773744" duration="4698000" />
+      <workItem from="1715359092656" duration="2146000" />
+      <workItem from="1715407538218" duration="2486000" />
+      <workItem from="1715422284513" duration="1601000" />
+      <workItem from="1715440163395" duration="602000" />
+      <workItem from="1715526670349" duration="35000" />
+      <workItem from="1715595462161" duration="1670000" />
+      <workItem from="1715665823312" duration="3596000" />
+      <workItem from="1715704682890" duration="6445000" />
+      <workItem from="1715763804126" duration="2162000" />
+      <workItem from="1716113968711" duration="601000" />
+      <workItem from="1716285886963" duration="1199000" />
+      <workItem from="1716371688463" duration="812000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.http.converter.HttpMessageNotReadableException" package="org.springframework.http.converter" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mvn_parent$Main8005.ic" NAME="Main8005 覆盖结果" MODIFIED="1714922999901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cloud.*</FILTER>
+    </SUITE>
+  </component>
+</project>

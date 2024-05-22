@@ -1,0 +1,95 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="isIgnoringEnabled" value="true" />
+      <option name="ignoredModules">
+        <list>
+          <option value="mybatis1" />
+          <option value="mybatis1" />
+          <option value="mybatis1" />
+          <option value="mybatis1" />
+          <option value="mybatis1" />
+          <option value="mybatis1" />
+          <option value="operate" />
+          <option value="operate" />
+          <option value="operate" />
+          <option value="operate" />
+          <option value="login8002" />
+          <option value="login8002" />
+          <option value="login8002" />
+          <option value="login8002" />
+          <option value="login8002" />
+          <option value="operate8001" />
+          <option value="operate8001" />
+          <option value="operate8001" />
+          <option value="operate8001" />
+          <option value="operate8001" />
+          <option value="login8005" />
+          <option value="login8005" />
+          <option value="login8005" />
+          <option value="login8005" />
+          <option value="login8005" />
+        </list>
+      </option>
+      <option name="ignoredPackages">
+        <list>
+          <option value="mysql:mysql-connector-java:8.0.11" />
+          <option value="cn.hutool:hutool-all:5.8.22" />
+          <option value="ch.qos.logback:logback-classic:1.4.11" />
+          <option value="ch.qos.logback:logback-core:1.4.11" />
+          <option value="com.jayway.jsonpath:json-path:2.8.0" />
+          <option value="org.springframework:spring-core:6.1.1" />
+          <option value="org.springframework:spring-core:6.1.1" />
+          <option value="mysql:mysql-connector-java:8.0.11" />
+          <option value="cn.hutool:hutool-all:5.8.22" />
+          <option value="com.jayway.jsonpath:json-path:2.8.0" />
+          <option value="org.springframework:spring-core:6.1.1" />
+          <option value="com.google.protobuf:protobuf-java:2.6.0" />
+          <option value="mysql:mysql-connector-java:8.0.11" />
+          <option value="com.jayway.jsonpath:json-path:2.8.0" />
+          <option value="cn.hutool:hutool-all:5.8.22" />
+          <option value="org.springframework:spring-core:6.1.1" />
+          <option value="cn.hutool:hutool-all:5.8.22" />
+          <option value="com.google.protobuf:protobuf-java:2.6.0" />
+          <option value="mysql:mysql-connector-java:8.0.11" />
+          <option value="com.jayway.jsonpath:json-path:2.8.0" />
+          <option value="org.springframework:spring-core:6.1.1" />
+          <option value="com.google.protobuf:protobuf-java:2.6.0" />
+          <option value="cn.hutool:hutool-all:5.8.22" />
+          <option value="mysql:mysql-connector-java:8.0.11" />
+          <option value="com.jayway.jsonpath:json-path:2.8.0" />
+        </list>
+      </option>
+      <option name="ignoredReasons">
+        <list>
+          <option value="其他" />
+          <option value="其他" />
+          <option value="其他" />
+          <option value="其他" />
+          <option value="其他" />
+          <option value="其他" />
+          <option value="其他" />
+          <option value="其他" />
+          <option value="其他" />
+          <option value="其他" />
+          <option value="其他" />
+          <option value="其他" />
+          <option value="其他" />
+          <option value="其他" />
+          <option value="其他" />
+          <option value="其他" />
+          <option value="其他" />
+          <option value="其他" />
+          <option value="其他" />
+          <option value="其他" />
+          <option value="其他" />
+          <option value="其他" />
+          <option value="其他" />
+          <option value="其他" />
+          <option value="其他" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pro-consumer80" />
+        <module name="operate8001" />
+        <module name="gateway" />
+        <module name="login8005" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="login" target="17" />
+      <module name="login8002" target="17" />
+      <module name="menu" target="17" />
+      <module name="mybatis1" target="17" />
+      <module name="mybatis2" target="17" />
+      <module name="mybatis_1" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

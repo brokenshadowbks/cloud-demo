@@ -1,0 +1,678 @@
+GET http://localhost:8001/api/pro/gateway/get
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-14T171033.200.json
+
+###
+
+GET http://localhost:8001/pro/gateway/get
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-14T171027.404.json
+
+###
+
+POST http://localhost:7573/api/login/gateway
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "name": "",
+  "password": "",
+  "permission": "",
+  "token": ""
+}
+
+<> 2024-05-11T143837.200.json
+
+###
+
+POST http://localhost:8005/api/login/gateway
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "name": "",
+  "password": "",
+  "permission": "",
+  "token": ""
+}
+
+<> 2024-05-11T143830.200.json
+
+###
+
+POST http://localhost:7573/api/login/gateway
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "name": "",
+  "password": "",
+  "permission": "",
+  "token": ""
+}
+
+<> 2024-05-11T143758.500.json
+
+###
+
+POST http://localhost:7573/api/login/gateway
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "name": "",
+  "password": "",
+  "permission": "",
+  "token": ""
+}
+
+<> 2024-05-11T143718.500.json
+
+###
+
+POST http://localhost:7573/api/login/gateway
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "name": "",
+  "password": "",
+  "permission": "",
+  "token": ""
+}
+
+<> 2024-05-11T143710.500.json
+
+###
+
+POST http://localhost:8005/api/login/gateway
+Content-Type: application/jsony
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-11T143659.200.json
+
+###
+
+POST http://localhost:8005/api/login/gatewa
+Content-Type: application/jsony
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-11T143652.404.json
+
+###
+
+POST http://localhost:7573/api/login/gateway
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "name": "",
+  "password": "",
+  "permission": "",
+  "token": ""
+}
+
+<> 2024-05-11T141521.200.json
+
+###
+
+POST http://localhost:8005/api/login/gateway
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "name": "",
+  "password": "",
+  "permission": "",
+  "token": ""
+}
+
+<> 2024-05-11T141515.200.json
+
+###
+
+POST http://localhost:8005/login/gateway
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "name": "",
+  "password": "",
+  "permission": "",
+  "token": ""
+}
+
+<> 2024-05-11T141506.404.json
+
+###
+
+POST http://localhost:7573/api/login/gateway
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "name": "",
+  "password": "",
+  "permission": "",
+  "token": ""
+}
+
+<> 2024-05-11T141456.200.json
+
+###
+
+POST http://localhost:8005/login/gateway
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-11T141440.404.json
+
+###
+
+POST http://localhost:7573/api/login/gateway
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "name": "",
+  "password": "",
+  "permission": "",
+  "token": ""
+}
+
+<> 2024-05-11T020159.200.json
+
+###
+
+POST http://localhost:7573/api/login/gateway
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "name": "",
+  "password": "",
+  "permission": "",
+  "token": ""
+}
+
+<> 2024-05-11T015621.200.json
+
+###
+
+POST http://localhost:7573/api/login/gateway
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "name": "",
+  "password": "",
+  "permission": "",
+  "token": ""
+}
+
+<> 2024-05-11T014933.200.json
+
+###
+
+POST http://localhost:7573/api/login/gateway
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "name": "",
+  "password": "",
+  "permission": "",
+  "token": ""
+}
+
+<> 2024-05-11T014854.200.json
+
+###
+
+POST http://localhost:8005/api/login/gateway
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "name": "",
+  "password": "",
+  "permission": "",
+  "token": ""
+}
+
+<> 2024-05-10T223121.200.json
+
+###
+
+POST http://localhost:7573/api/login/gateway
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "name": "",
+  "password": "",
+  "permission": "",
+  "token": ""
+}
+
+<> 2024-05-10T223115.200.json
+
+###
+
+POST http://localhost:7573/api/login/gateway
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "name": "",
+  "password": "",
+  "permission": "",
+  "token": ""
+}
+
+<> 2024-05-10T222727.200.json
+
+###
+
+POST http://localhost:8005/api/login/gateway
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "name": "",
+  "password": "",
+  "permission": "",
+  "token": ""
+}
+
+<> 2024-05-10T222717.200.json
+
+###
+
+POST http://localhost:8005/api/login/gateway
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "name": "",
+  "password": "",
+  "permission": "",
+  "token": ""
+}
+
+<> 2024-05-10T174726.200.json
+
+###
+
+POST http://localhost:7573/api/login/gateway
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "name": "",
+  "password": "",
+  "permission": "",
+  "token": ""
+}
+
+<> 2024-05-10T174524.200.json
+
+###
+
+POST http://localhost:8005/api/login/gateway
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "name": "",
+  "password": "",
+  "permission": "",
+  "token": ""
+}
+
+<> 2024-05-10T174502.200.json
+
+###
+
+POST http://localhost:8005/login/gateway
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-10T174456.404.json
+
+###
+
+POST http://localhost:7573/api/login/gateway
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-10T160522.200.json
+
+###
+
+POST http://localhost:8005/api/login/gateway
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-10T160513.200.json
+
+###
+
+POST http://localhost:8005/api/login/gateway
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-10T160408.200.json
+
+###
+
+POST http://localhost:8005/api/login/gateway
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-10T160159.200.json
+
+###
+
+POST http://localhost:7573/api/login/gateway
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-10T160133.200.json
+
+###
+
+POST http://localhost:7573/api/login/gateway
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-10T160020.200.json
+
+###
+
+GET http://localhost:8001/pro/gateway/get
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-10T155938.200.json
+
+###
+
+POST http://localhost:7573/api/login/gateway
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-10T010848.200.json
+
+###
+
+POST http://localhost:7573/api/login/gateway
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-10T010832.200.json
+
+###
+
+POST http://localhost:8005/api/login/gateway
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-10T010824.200.json
+
+###
+
+POST http://localhost:8005/login/gateway
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-10T010803.404.json
+
+###
+
+POST http://localhost:8005/login/gateway
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "name": "",
+  "password": "",
+  "permission": "",
+  "token": ""
+}
+
+<> 2024-05-10T010754.404.json
+
+###
+
+GET http://localhost:7573/pro/gateway/get
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-10T010725.200.json
+
+###
+
+GET http://localhost:8001/pro/gateway/get
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-10T010711.200.json
+
+###
+
+GET http://localhost:7573/pro/gateway/get
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-10T010342.500.json
+
+###
+
+GET http://localhost:7573/pro/gateway/get
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-10T010319.500.json
+
+###
+
+GET http://localhost:7573/pro/gateway/get
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-10T010123.500.json
+
+###
+
+GET http://localhost:7573/pro/gateway/get
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-10T010101.500.json
+
+###
+
+GET http://localhost:8001/pro/gateway/get
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-10T010042.200.json
+
+###
+
+GET http://localhost:7573/pro/gateway/get
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-10T010039.500.json
+
+###
+
+GET http://localhost:7573/pro/get
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-10T010001.404.json
+
+###
+
+GET http://localhost:8001/pro/get
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-10T005955.200.json
+
+###
+
+POST http://localhost:7573/login/gateway
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-10T005849.404.json
+
+###
+
+POST http://localhost:8005/login/gateway
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-05-10T005834.404.json
+
+###
+
